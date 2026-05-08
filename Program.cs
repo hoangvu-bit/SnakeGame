@@ -16,7 +16,7 @@ namespace snakesgame_76_vu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_6_5_76_vu());
+            Application.Run(new Snakes_76_vu());
         }
     }
 }

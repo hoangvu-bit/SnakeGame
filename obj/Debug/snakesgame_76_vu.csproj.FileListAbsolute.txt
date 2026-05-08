@@ -19,4 +19,3 @@ D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.pdb
 D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.exe.config
 D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.exe
 D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.pdb
-D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.frm_6_5_76_vu.resources
