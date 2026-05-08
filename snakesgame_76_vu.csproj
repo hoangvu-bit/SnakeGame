@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>snakesgame_76_vu</RootNamespace>
+    <AssemblyName>snakesgame_76_vu</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_6_5_76_vu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_6_5_76_vu.Designer.cs">
+      <DependentUpon>frm_6_5_76_vu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gameSnake_76_vu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gameSnake_76_vu.Designer.cs">
+      <DependentUpon>gameSnake_76_vu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Setting_76_vu.cs" />
+    <Compile Include="ViTri_76_vu.cs" />
+    <EmbeddedResource Include="frm_6_5_76_vu.resx">
+      <DependentUpon>frm_6_5_76_vu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gameSnake_76_vu.resx">
+      <DependentUpon>gameSnake_76_vu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jIpC9oJ.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-illustrated-hexagonal-pattern-creates-abstract-background-light-simple-honeycomb-vector-png-image_12790617.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-illustrated-hexagonal-pattern-creates-abstract-background-light-simple-honeycomb-vector-png-image_12790617.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-525986013-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9e742d74-4e1d-4604-a6d3-d7fbdf85da85.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\903e7c6b-482b-4b35-891c-54f2b9c80dea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\77f2aef1-f37d-472e-bdeb-def99aa05dc3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\44d0f480-145d-4708-9403-f85d56d6d9ca.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

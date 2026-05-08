@@ -1,0 +1,22 @@
+D:\big exercise C#\snakesgame_76_vu\bin\Debug\snakesgame_76_vu.exe.config
+D:\big exercise C#\snakesgame_76_vu\bin\Debug\snakesgame_76_vu.exe
+D:\big exercise C#\snakesgame_76_vu\bin\Debug\snakesgame_76_vu.pdb
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.csproj.AssemblyReference.cache
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.Snakes_76_vu.resources
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.Properties.Resources.resources
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.csproj.GenerateResource.cache
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.csproj.CoreCompileInputs.cache
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.exe
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.pdb
+D:\big exercise C#\snakesgame_76_vu\obj\Debug\snakesgame_76_vu.Form2.resources
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.csproj.AssemblyReference.cache
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.Snakes_76_vu.resources
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.Properties.Resources.resources
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.csproj.GenerateResource.cache
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.csproj.CoreCompileInputs.cache
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.exe
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.pdb
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.exe.config
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.exe
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\bin\Debug\snakesgame_76_vu.pdb
+D:\76_vu_N2_SnakesGame\76_vu_N2_snakesgame\obj\Debug\snakesgame_76_vu.frm_6_5_76_vu.resources

@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|d:\\76_vu_n2_snakesgame\\76_vu_n2_snakesgame\\frm_6_5_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:frm_6_5_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|d:\\76_vu_n2_snakesgame\\76_vu_n2_snakesgame\\frm_6_5_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:frm_6_5_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gamesnake_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:gamesnake_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|d:\\76_vu_n2_snakesgame\\76_vu_n2_snakesgame\\frm_6_5_76_vu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:frm_6_5_76_vu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|d:\\76_vu_n2_snakesgame\\76_vu_n2_snakesgame\\gamesnake_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:gamesnake_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gamesnake_76_vu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:gamesnake_76_vu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\setting_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:setting_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\vitri_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:vitri_76_vu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gamesnake_76_vu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{69AE6077-0BA2-4D3E-99AF-FEF92F56CBFE}|snakesgame_76_vu.csproj|solutionrelative:gamesnake_76_vu.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_6_5_76_vu.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.cs",
+              "RelativeDocumentMoniker": "frm_6_5_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.cs",
+              "RelativeToolTip": "frm_6_5_76_vu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T03:28:40.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_6_5_76_vu.cs [Design]",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.cs",
+              "RelativeDocumentMoniker": "frm_6_5_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.cs [Design]",
+              "RelativeToolTip": "frm_6_5_76_vu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T03:26:24.391Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gameSnake_76_vu.cs [Design]",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.cs",
+              "RelativeDocumentMoniker": "gameSnake_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.cs [Design]",
+              "RelativeToolTip": "gameSnake_76_vu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:26:37.614Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gameSnake_76_vu.resx",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.resx",
+              "RelativeDocumentMoniker": "gameSnake_76_vu.resx",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.resx",
+              "RelativeToolTip": "gameSnake_76_vu.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-22T15:05:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gameSnake_76_vu.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.cs",
+              "RelativeDocumentMoniker": "gameSnake_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.cs",
+              "RelativeToolTip": "gameSnake_76_vu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:10:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_6_5_76_vu.Designer.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.Designer.cs",
+              "RelativeDocumentMoniker": "frm_6_5_76_vu.Designer.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\frm_6_5_76_vu.Designer.cs",
+              "RelativeToolTip": "frm_6_5_76_vu.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAuwM0AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T03:33:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gameSnake_76_vu.Designer.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.Designer.cs",
+              "RelativeDocumentMoniker": "gameSnake_76_vu.Designer.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\gameSnake_76_vu.Designer.cs",
+              "RelativeToolTip": "gameSnake_76_vu.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:59:53.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Setting_76_vu.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\Setting_76_vu.cs",
+              "RelativeDocumentMoniker": "Setting_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\Setting_76_vu.cs",
+              "RelativeToolTip": "Setting_76_vu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:59:30.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T14:59:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViTri_76_vu.cs",
+              "DocumentMoniker": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\ViTri_76_vu.cs",
+              "RelativeDocumentMoniker": "ViTri_76_vu.cs",
+              "ToolTip": "D:\\76_vu_N2_SnakesGame\\76_vu_N2_snakesgame\\ViTri_76_vu.cs",
+              "RelativeToolTip": "ViTri_76_vu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:03:47.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
